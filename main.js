@@ -1,11 +1,11 @@
 
 const students = [
-    { name: "Amit", marks: 92, attendance: 95 },
-    { name: "Sara", marks: 45, attendance: 60 },
-    { name: "John", marks: 78, attendance: 80 },
-    { name: "Priya", marks: 88, attendance: 88 },
-    { name: "Mike", marks: 100, attendance: 100 },
-    { name: "Rahul", marks: 55, attendance: 90 }
+    { name: "Basheer", marks: 92, attendance: 95 },
+    { name: "Adnan", marks: 45, attendance: 60 },
+    { name: "Hammad", marks: 78, attendance: 80 },
+    { name: "Shams", marks: 88, attendance: 88 },
+    { name: "Yousif", marks: 100, attendance: 100 },
+    { name: "A-Qadeer", marks: 55, attendance: 90 }
 ];
 
 function calculateGrade(marks) {
